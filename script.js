@@ -12,7 +12,7 @@ class Person {
 		return this.age;
 	}
 
-	set name(){
+	set name(name){
 		this.name = name;
 	}
 	set age(age){
